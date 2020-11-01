@@ -5,5 +5,5 @@ PHP code for accessing the Dataflow Kit API
 
 1. Open file dfk-api.php
 2. Exchange API-KEY  with the actual one from hhttps://account.dataflowkit.com/settings
-3.```docker build -t dfk-api-php . ```
+3. ```docker build -t dfk-api-php . ```
 4. ``` docker run -it --rm --name dfk-api-php  dfk-api-php```
